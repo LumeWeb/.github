@@ -7,3 +7,5 @@ At Lume Web, we define web3 as the combination of the decentralized web (dWeb) (
 In addition to fully supporting decentralized finance (defi), Lume Web is committed to exploring the full potential of web3. We envision a future where the internet is more open, gives more freedom and puts users in control. Join us as we press the reset button and shape the internet we want.
 
 Please note most repositories are mirrored from https://git.lumeweb.com. Github is for visibility and social network reasons only. No issues or other requests will be accepted on this organization. Go to https://git.lumeweb.com and/or contact us at the various means in the header at https://lumeweb.com if you want to contribute or have a problem.
+
+Also know that we self-host most of the project now to keep self-sovereignty in light of the fall of privacy projects like Tornado Cash, or anything that can be politicized for increasing censorship in the name of "safety" or other buzz words used. We expect everything to be self-hosted in the long term.
