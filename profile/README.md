@@ -1,11 +1,13 @@
-Lume Web is the web3 hub that aims to bring decentralized technologies to the mainstream. We believe in creating a censorship-free internet that prioritizes privacy, data ownership, and accessibility. As web3 evolves, Lume Web will be at the forefront, providing a gateway and onboarding guide to this next evolution of the web.
+# Lume Web: Shaping the Future of Web3
 
-If AOL was web 1, and Google was web 2... then Lume Web would be known as web3.
+Welcome to Lume Web, where decentralized technologies meet everyone. Our goal: an internet without limits, focused on privacy, ownership, and access. As Web3 unfolds, Lume Web leads, guiding you into this new era.
 
-At Lume Web, we define web3 as the combination of the decentralized web (dWeb) (think BitTorrent, Tor, Scuttlebutt) and blockchain-based economies (Bitcoin, Ethereum, Avax, Algorand, Cardano, Polkadot, Cosmos). While some other projects may use their own definitions of web3, we believe that dWeb and economy are central to this new era of the internet. Web3 is about accessing the web first, freely.
+Web3 for us combines the decentralized web (dWeb) – think BitTorrent, Tor, Scuttlebutt, and IPFS – with blockchain-based economies. While views on web3 differ, we converge dWeb and digital economies. Our vision? An internet prioritizing access and freedom.
 
-In addition to fully supporting decentralized finance (defi), Lume Web is committed to exploring the full potential of web3. We envision a future where the internet is more open, gives more freedom and puts users in control. Join us as we press the reset button and shape the internet we want.
+But there's more. Lume Web extends beyond decentralized finance (defi), envisioning a digital landscape of openness. Join us in rewriting the rules and designing a user-centric internet.
 
-Please note most repositories are mirrored from https://git.lumeweb.com. Github is for visibility and social network reasons only. No issues or other requests will be accepted on this organization. Go to https://git.lumeweb.com and/or contact us at the various means in the header at https://lumeweb.com if you want to contribute or have a problem.
+Repositories mirror at https://git.lumeweb.com. For contributions and issues, head to https://lumeweb.com. Your voice matters.
 
-Also know that we self-host most of the project now to keep self-sovereignty in light of the fall of privacy projects like Tornado Cash, or anything that can be politicized for increasing censorship in the name of "safety" or other buzz words used. We expect everything to be self-hosted in the long term.
+Our self-hosting approach safeguards projects in a shifting privacy landscape, ensuring lasting self-sovereignty. Expect a fully self-hosted future.
+
+Step into Lume – where Web3's potential becomes reality 😎.
