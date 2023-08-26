@@ -6,7 +6,7 @@ Web3 for us combines the decentralized web (dWeb) – think BitTorrent, Tor, Scu
 
 But there's more. Lume Web extends beyond decentralized finance (defi), envisioning a digital landscape of openness. Join us in rewriting the rules and designing a user-centric internet.
 
-Repositories mirror at https://git.lumeweb.com. For contributions and issues, head to https://lumeweb.com. Your voice matters.
+Repositories here are mirrored from https://git.lumeweb.com. For contributions and issues, head to https://lumeweb.com and join the community. Your voice matters.
 
 Our self-hosting approach safeguards projects in a shifting privacy landscape, ensuring lasting self-sovereignty. Expect a fully self-hosted future.
 
