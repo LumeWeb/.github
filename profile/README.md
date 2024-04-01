@@ -11,3 +11,5 @@ Repositories here are mirrored from https://git.lumeweb.com. For contributions a
 Our self-hosting approach safeguards projects in a shifting privacy landscape, ensuring lasting self-sovereignty. Expect a fully self-hosted future.
 
 Step into Lume – where Web3's potential becomes reality 😎.
+
+**Funded on a grant by the [Sia Foundation](https://sia.tech/grants)**
